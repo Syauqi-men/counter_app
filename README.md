@@ -4,5 +4,5 @@
 
 ## Screenshot
 <p align="center">
-  <img src="preview.png" width="300" alt="Preview Aplikasi">
+  <img src="src/preview.png" width="300" alt="Preview Aplikasi">
 </p>
